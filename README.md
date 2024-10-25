@@ -1,7 +1,7 @@
 # pipex
 
 <p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="Pipex 42 project badge"/>
+  <img src="hhttps://github.2com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="Pipex 42 project badge"/>
 </p>
 
 pipex is a 42 school project aimed to better understand shell redirection and pipes, by handling them in C.
@@ -18,15 +18,10 @@ $ < input_file command1 | command2 > output file
 * [Creating and Killing Child Processes in C](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/)
 * [Pipe: an Inter-Process Communication Method](https://www.codequoi.com/en/pipe-an-inter-process-communication-method/)
 
-:fr: Lire mes articles en français sur les concepts abordés dans ce projet :
-
-* [Créer et tuer des processus fils en C](https://www.codequoi.com/creer-et-tuer-des-processus-fils-en-c/)
-* [Pipe : une méthode de communication inter-processus](https://www.codequoi.com/pipe-une-methode-de-communication-inter-processus/)
-
 ---
 
 ## Status
-Finished 01/05/2022. Grade: 118% (here_doc bonus failed: prints an extra prompt line after LIMITER is given as input.)
+Finished 01/01/1111. Grade: 118% (here_doc bonus failed: prints an extra prompt line after LIMITER is given as input.)
 
 ## Usage
 To compile, use ```make```, ```make all``` or ```make bonus```.
